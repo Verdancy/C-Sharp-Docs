@@ -1,11 +1,14 @@
+### Video Upload
 To upload a video to YouTube using the C# Google APIs client library, you will need to follow these steps:
 
-Set up a project in the Google Developers Console and enable the YouTube Data API.
-Install the Google APIs client library for C#. You can do this using the NuGet package manager in Visual Studio or by downloading the library from nuget.org.
-Create a new C# console application and include the necessary using statements for the Google APIs client library.
-In your application, create a new YouTubeService object and set the API key that you obtained in step 1.
-Create a new Video object and set the necessary properties for the video, such as the title, description, and location of the video file.
-Call the Videos.Insert method on the YouTubeService object, passing in the Video object as a parameter. This will upload the video to YouTube.
+1. Set up a project in the Google Developers Console and enable the YouTube Data API.
+2. Install the Google APIs client library for C#. You can do this using the NuGet package manager in Visual Studio or by downloading the library from nuget.org.
+3. Create a new C# console application and include the necessary using statements for the Google APIs client library.
+4. In your application, create a new YouTubeService object and set the API key that you obtained in step 1.
+5. Create a new Video object and set the necessary properties for the video, such as the title, description, and location of the video file.
+6. Call the Videos.Insert method on the YouTubeService object, passing in the Video object as a parameter. This will upload the video to YouTube.
+
+
 Here is some sample code that demonstrates how to do this:
 
 ```
