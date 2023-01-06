@@ -11,7 +11,7 @@ To upload a video to YouTube using the C# Google APIs client library, you will n
 
 Here is some sample code that demonstrates how to do this:
 
-```
+```csharp
 using Google.Apis.Auth.OAuth2;
 using Google.Apis.Services;
 using Google.Apis.YouTube.v3;
