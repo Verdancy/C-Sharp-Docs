@@ -13,3 +13,24 @@ The PayPal API is another popular choice for C# developers, allowing them to pro
 Finally, the Microsoft Azure API is a popular choice for developers looking to leverage cloud-based services in their C# applications. With the Azure API, you can access a variety of services such as storage, analytics, and machine learning, among others.
 
 Overall, the C# API documentation provides a wealth of information and resources for developers working with the C# programming language, including a wide range of popular APIs that can help you build powerful and innovative
+
+
+
+
+
+Table of Contents
+-------------
+
+ * Google
+   * Youtube
+     * [Video Editing](API/Google/Youtube/video-edit.md)
+     * [Video Removing](API/Google/Youtube/video-remove.md)
+     * [Video Uploading](API/Google/Youtube/video-upload.md)
+   * Maps
+     * [Add Markers, Info and Overlays](API/Google/Maps/add-markers-info-overlays.md)
+     * [Calculate Distances](API/Google/Maps/calculate-distances.md)
+     * [Customize Appearance](API/Google/Maps/customize-appearance.md)
+     * [Display Maps](API/Google/Maps/display-maps.md)
+     * [Geocode Addresses](API/Google/Maps/geocode-addresses.md)
+     * [Retrieve and Display Data](API/Google/Maps/retrieve-display-data.md)
+   
