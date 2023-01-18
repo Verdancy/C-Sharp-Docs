@@ -31,4 +31,5 @@ Welcome to the C# resource center! This repository is a comprehensive collection
      * [Retrieve and Display Information](API/Twitter/retrieve-display-information.md)
      * [Retrieve and Display Trends](API/Twitter/retrieve-display-trends.md)
      * [Retrieve and Display Tweets](API/Twitter/retrieve-display-tweets.md)
-
+* Paypal
+     * [Accept payments](API/Paypal/accept-payments.md)
